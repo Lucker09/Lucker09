@@ -6,26 +6,14 @@ Bem-vindo ao meu perfil! Eu sou um desenvolvedor em formação, dando meus prime
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucker09&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Estatísticas do Lucas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucker09&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Linguagens mais usadas" />
-</div>
+![](https://github-readme-stats.shion.dev/api?username=Lucker09&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Lucker09&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lucker09&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br>
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" alt="C" />
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucker09/Lucker09/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucker09/Lucker09/output/snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Lucker09/Lucker09/output/snake.svg">
-</picture>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
 
 ---
 
