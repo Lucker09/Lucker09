@@ -33,12 +33,6 @@ Como estou no início da minha jornada profissional, meu foco diário é dominar
 - **Arquitetura e Planejamento:** Aprendendo a documentar projetos e levantar requisitos funcionais e não funcionais.
 - **Controle de Versão:** Dominando o básico de Git e GitHub para organizar meus estudos.
 
-### 🚀 O Que Você Verá Por Aqui Em Breve
-Atualmente meus repositórios estão em fase de semeadura. Nos próximos meses, pretendo povoar este espaço com:
-- Desafios lógicos e trabalhos estruturados da faculdade.
-- Minhas primeiras modelagens de banco de dados e APIs em desenvolvimento.
-- Projetos focados em regras de negócios puras (como pequenos sistemas de gestão, calculadoras e painéis de controle).
-
 --- 
 
 ### 🌐 Socials:
